@@ -1,0 +1,13 @@
+export { BackButton } from './BackButton/BackButton';
+export { FilterPanel } from './FilterPanel/FilterPanel';
+export { GenreBadge } from './GenreBadge/GenreBadge';
+export { Header } from './Header/Header';
+export { MovieInfo } from './MovieInfo/MovieInfo';
+export { MoviesControls } from './MoviesControls/MoviesControls';
+export { MoviesList } from './MoviesList/MoviesList';
+export { MoviesListCard } from './MoviesListCard/MoviesListCard';
+export { Pagination } from './Pagination/Pagination';
+export { PosterPreview } from './PosterPreview/PosterPreview';
+export { RatingWidget } from './RatingWidget/RatingWidget';
+export { Sidebar } from './Sidebar/Sidebar';
+export { StarsRating } from './StarsRating/StarsRating';

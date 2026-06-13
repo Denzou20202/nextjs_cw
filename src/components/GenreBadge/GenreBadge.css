@@ -1,0 +1,12 @@
+.genre-badge {
+  display: inline-block;
+  padding: 0.3rem 0.6rem;
+  background: rgba(249, 49, 84, 0.15);
+  border: 1px solid rgba(249, 49, 84, 0.4);
+  border-radius: 6px;
+  font-size: 0.7rem;
+  color: #f93154;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}

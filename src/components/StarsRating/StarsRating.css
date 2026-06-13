@@ -1,0 +1,26 @@
+.stars-rating {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.star {
+  font-size: 0.95rem;
+  transition: color 0.2s;
+}
+
+.star.filled {
+  color: #f2994e;
+}
+
+.star.empty {
+  color: rgba(255, 255, 255, 0.2);
+}
+
+.star.interactive {
+  cursor: pointer;
+}
+
+.star.interactive:hover {
+  color: #f2994e !important;
+}
